@@ -25,5 +25,7 @@ The vision of this project is to provide a secure, transparent, and anonymous di
 - **Candidate Selection**: Supports multiple candidates in an election process.
 
 ## contract address:0x65bdd5a6932cdd5ea3152c54b6ba36f83a960594feb1290820ddd26567a42996
-This project serves as a foundation for future advancements in secure digital voting mechanisms.
+
+![image](https://github.com/user-attachments/assets/def4f086-48bd-447b-8401-bdec1334025a)
+
 
